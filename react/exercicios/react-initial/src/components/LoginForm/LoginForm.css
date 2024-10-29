@@ -1,0 +1,21 @@
+.container {
+    width: 300px;
+    margin-top: 10px;
+    margin-inline: auto;
+}
+.container button {
+    margin-top: 20px;
+}
+.input-container {
+    display: flex;
+    flex-direction: column;
+    row-gap: 5px;
+    margin-top: 15px;
+}
+.input-container input {
+    padding: 10px;
+    border-radius: 10px;
+    outline: none;
+    border: 1px solid black;
+    
+}
