@@ -1,6 +1,4 @@
-# REACT
-
- # 🚀 Praticando ReactJS
+# 🚀 Praticando ReactJS
 
 Este repositório contém uma coleção de exercícios, desafios e projetos realizados durante minha jornada de estudos com **React.js**. Cada pasta representa um módulo temático com conceitos específicos, onde busquei aplicar na prática os principais recursos da biblioteca.
 
